@@ -4,8 +4,7 @@ aight so, turn off anti-virus before you run the installation. installation is q
 
 i have like a million things i could add to improvise user experience and gui, and i plan on doing that at some point, hopefully. although, would appreciate any issues or ideas w the actual login script itself.
 
-stuff i used:
-
+### stuff i used:
 selenium made it quite simple to do the scripting work.
 used tkinter for the application iteself.
 and used installforge for creating the installation wizard file.
