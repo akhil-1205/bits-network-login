@@ -10,5 +10,5 @@ used tkinter for the application iteself.
 and used installforge for creating the installation wizard file.
 
 ## funny story:
-ran into meghraj. smh. https://GitHub.com/megz15
+ran into [meghraj](https://GitHub.com/megz15). smh.
 turns out that selenium is THE worst way to do this. and i can send a push request using requests. so,scope for improvement indeed. 
