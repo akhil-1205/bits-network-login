@@ -8,3 +8,7 @@ i have like a million things i could add to improvise user experience and gui, a
 selenium made it quite simple to do the scripting work.
 used tkinter for the application iteself.
 and used installforge for creating the installation wizard file.
+
+## funny story:
+ran into meghraj. smh. https://GitHub.com/megz15
+turns out that selenium is THE worst way to do this. and i can send a push request using requests. so,scope for improvement indeed. 
